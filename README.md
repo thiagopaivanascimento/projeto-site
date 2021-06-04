@@ -1,5 +1,4 @@
-# projeto-site
- Projeto de um site - Curso de Git e Hub
+# Projeto-site
+ Curso de Git e Hub -  Curso em Vídeo
  ---
- ## Curso em vídeo 
- **gustavoguanabara**
+  **gustavoguanabara**
